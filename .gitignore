@@ -2,3 +2,6 @@ node_modules/
 .DS_Store
 .vscode/
 public/dist/
+firebase-example.js
+.env.test
+.env.development
